@@ -3,13 +3,13 @@ package leetcode
 import "testing"
 
 func TestFizzBuzz(t *testing.T) {
-	type test struct {
+	type testcase struct {
 		name   string
 		input  int
 		expect []string
 	}
 
-	tests := []test{
+	tests := []testcase{
 		{"test 1", 1, []string{"1"}},
 		{"test 2", 2, []string{"1", "2"}},
 		{"test 3", 3, []string{"1", "2", "Fizz"}},

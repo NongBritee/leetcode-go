@@ -5,13 +5,13 @@ import (
 )
 
 func TestNumberOfSteps(t *testing.T) {
-	type test struct {
+	type testcase struct {
 		name   string
 		input  int
 		expect int
 	}
 
-	tests := []test{
+	tests := []testcase{
 		{"test 1", 1, 1},
 		{"test 2", 14, 6},
 		{"test 3", 8, 4},

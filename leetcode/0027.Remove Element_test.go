@@ -3,14 +3,14 @@ package leetcode
 import "testing"
 
 func TestRemoveElement(t *testing.T) {
-	type test struct {
+	type testcase struct {
 		name   string
 		nums   []int
 		val    int
 		expect int
 	}
 
-	tests := []test{
+	tests := []testcase{
 		{
 			name:   "test 1",
 			nums:   []int{3, 2, 2, 3},

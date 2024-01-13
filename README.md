@@ -12,6 +12,8 @@ This repository contains my solutions to LeetCode problems. I've been actively p
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+## Total 9 / xxxx
+
 | No.  | Title                               | Solution                                                                                                                                     | Difficulty | Note                                                                                                                                                                                          |
 |:----:|:------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------|:----------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0026 | Remove Duplicates from Sorted Array | [Go](https://github.com/NongBritee/leetcode-go/blob/main/leetcode/0026.Remove%20Duplicates%20from%20Sorted%20Array.go) [Array]               |    Easy    | <sub>1. loop through nums array then append to new array when it's not duplicate to the latest value in new array</sub>                                                                       |

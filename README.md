@@ -13,7 +13,7 @@ This repository contains my solutions to LeetCode problems. I've been actively p
 </a>
 
 ### Easy 8/761
-### Medium 2/1580
+### Medium 3/1580
 ### Hard 0/663
 
 | No.  | Title                                               | Solution                                                                                                                                                                                                                                                                             |     Difficulty      | Note                                                                                                                                                                                                                                    |
